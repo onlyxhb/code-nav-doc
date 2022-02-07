@@ -9,6 +9,8 @@ export default defineConfig({
   analytics: {
     baidu: 'eb44917eec45fb8f09c3ae111c5e62bc',
   },
+  base: '/code-nav-doc/',
+  publicPath: '/code-nav-doc/',
   metas: [
     {
       name: 'keywords',
