@@ -11,6 +11,7 @@ export default defineConfig({
   },
   base: '/code-nav-doc/',
   publicPath: '/code-nav-doc/',
+  styles: [`.markdown a.beian { color: #b0b1ba; }`, `.markdown a.beian svg { display: none; }`],
   metas: [
     {
       name: 'keywords',

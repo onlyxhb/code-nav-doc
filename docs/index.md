@@ -31,7 +31,7 @@ features:
     title: 全民共建
     desc: 人人皆可推荐，帮助他人，获取激励
     link: https://www.code-nav.cn
-footer: Open-source MIT Licensed | Copyright © 2021<br />Powered by [编程导航](https://www.code-nav.cn)
+footer: <a target="_blank" class="beian" href="https://beian.miit.gov.cn/">鄂ICP备17004871号-1</a> | Copyright © 2021-present<br />Powered by 随波逐流
 ---
 
 ## 项目简介
